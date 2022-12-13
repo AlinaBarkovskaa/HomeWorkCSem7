@@ -16,19 +16,29 @@ void InputmArray(int[,] matrix)
         Console.WriteLine();
     }
  } 
- void arithmeticMeanElements(int[,] matrix)
+ int[,] Transposition(int[,] matrix)
  {
-    for(int j = 0; j < matrix.GetLength(1); j++)
+   for(int i = matrix.GetLength(0) - 1; i >= 0; i--)
+   {
+       for (int j = 0; j < matrix.GetLength(1); j++)
+       {
+         Console.WriteLine(matrix[j ,i]);
+       }
+       Console.WriteLine();
+   }
+   return matrix;
+ }
+ void Print (int[,] matrix)
+ {
+   for(int i = 0; i < matrix.GetLength(0); i++)
     {
-       int avarage = 0;
-       for(int i = 0; i < matrix.GetLength(0); i++)
-     {
-         avarage = (avarage + matrix[i, j]);
-     }
-    avarage = avarage / n;
-    Console.WriteLine($"среднее арифметическое элементов в столбце = {avarage} ");
-    } 
+       for(int j = 0; j < matrix.GetLength(1); j++)
+       {
+           Console.Write($"{matrix[i, j]} \t");
+       }
+    }
  }
 Console.Clear();
 InputmArray(matrix);
-arithmeticMeanElements(matrix);
+Console.WriteLine();
+Print(Transposition(matrix));
