@@ -1,0 +1,15 @@
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\obj\Debug\net6.0\fillingDiagonals.csproj.AssemblyReference.cache
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\obj\Debug\net6.0\fillingDiagonals.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\obj\Debug\net6.0\fillingDiagonals.AssemblyInfoInputs.cache
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\obj\Debug\net6.0\fillingDiagonals.AssemblyInfo.cs
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\obj\Debug\net6.0\fillingDiagonals.csproj.CoreCompileInputs.cache
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\bin\Debug\net6.0\fillingDiagonals.exe
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\bin\Debug\net6.0\fillingDiagonals.deps.json
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\bin\Debug\net6.0\fillingDiagonals.runtimeconfig.json
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\bin\Debug\net6.0\fillingDiagonals.dll
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\bin\Debug\net6.0\fillingDiagonals.pdb
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\obj\Debug\net6.0\fillingDiagonals.dll
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\obj\Debug\net6.0\refint\fillingDiagonals.dll
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\obj\Debug\net6.0\fillingDiagonals.pdb
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\obj\Debug\net6.0\fillingDiagonals.genruntimeconfig.cache
+C:\Users\semio\Desktop\hWSem7\fillingDiagonals\obj\Debug\net6.0\ref\fillingDiagonals.dll
